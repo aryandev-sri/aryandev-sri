@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm Aryan Dev Srivastava
 
 ### 🚀 Aspiring Full-Stack Developer & Data Analyst
 *Transitioning into the world of code with a focus on building scalable web apps and uncovering insights from data.*
@@ -40,8 +40,8 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryandev20/)
+- 📧 [Email](aryandevsrivastava6273@gmail.com)
 - ✍️ [Personal Portfolio / Blog](YOUR_WEBSITE_URL)
 
 ---
