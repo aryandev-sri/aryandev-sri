@@ -1,42 +1,124 @@
-# 👋 Hello World! I'm Aryan Dev Srivastava
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hello,+I+am+Akshat;Namaste,+mein+Akshat+hoon;Bonjour,+je+suis+Akshat;Hola,+soy+Akshat;" alt="Typing SVG" /> </p>
 
-### 🚀 Aspiring Full-Stack Developer & Data Analyst
-*Transitioning into the world of code with a focus on building scalable web apps and uncovering insights from data.*
+👩🏻‍💻 Exploring the world of technology and sharing my journey as a Software Engineer.
 
----
+👩🏻‍🎓 Recent Graduate From Vellore Institute Of technology Bhopal.
 
-### 🛠️ My Tech Stack
+💭 Currently diving into  React, Core Java, OOPS, and full-stack development!
 
-**Frontend & Creative**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data Analytics**
-![BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+###
+<p align="center">
+  ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝔼
+   </p>
+<p align="center">
+<a href="https://github.com/nayakji13" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/akshat-nayak-558a10305/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:akshatnayak13@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+</p>
 
 ---
+### 🛠 My Arsenal
+<div align="center">
 
-### 🏗️ What I’m Working On
+### 🛠️ Tech Stack & Tools
 
-- 🌐 **MERN Stack Mastery:** Building full-stack applications from the ground up.
-- ✨ **Creative Web:** Experimenting with **GSAP**, custom cursors, and cinematic background videos to create immersive UX.
-- 📊 **Data Stories:** Analyzing complex datasets using BigQuery to drive decision-making.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" />
+      <br>CSS3
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=expressjs" alt="Express" width="40" height="40" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="40" height="40" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
+      <br>Linux
+    </td>
+  </tr>
 
----
-### 🤝 Let's Connect
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="40" height="40" />
+      <br>Android
+    </td>
+  </tr>
+</table>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryandev20/)
-- 📧 [Email](aryandevsrivastava6273@gmail.com)
-- ✍️ [Personal Portfolio / Blog](YOUR_WEBSITE_URL)
+</div>
 
----
-
-> "The best way to predict the future is to code it." 💻
-> 
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nayakji13&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayakji13&layout=compact&theme=radical)
