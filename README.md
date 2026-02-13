@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hello,+I+am+Akshat;Namaste,+mein+Akshat+hoon;Bonjour,+je+suis+Akshat;Hola,+soy+Akshat;" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hello,+I+am+Aryan Dev Srivastava;Namaste,+mein+Aryan Dev Srivastava+hoon;Bonjour,+je+suis+Aryan Dev Srivastava;Hola,+soy+Aryan Dev Srivastava;" alt="Typing SVG" /> </p>
 
 👩🏻‍💻 Exploring the world of technology and sharing my journey as a Software Engineer.
 
@@ -12,8 +12,8 @@
    </p>
 <p align="center">
 <a href="https://github.com/nayakji13" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/akshat-nayak-558a10305/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="mailto:akshatnayak13@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/Aryan Dev Srivastava-nayak-558a10305/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:Aryan Dev Srivastavanayak13@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 ---
