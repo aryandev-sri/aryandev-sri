@@ -30,14 +30,6 @@
 - 📊 **Data Stories:** Analyzing complex datasets using BigQuery to drive decision-making.
 
 ---
-
-### 📈 GitHub Stats
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-ff-v2) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=vision-ff-v2) |
-| :--- | :--- |
-
----
-
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryandev20/)
