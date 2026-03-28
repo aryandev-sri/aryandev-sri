@@ -62,7 +62,7 @@ SQL</td>
 </tr>
 </table>
 
-Software Develement
+💻 Software Develement
 <div align="center">
 <table>
 <tr>
@@ -77,7 +77,30 @@ Software Develement
 <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/>
 </a><br />MySQL
 </td>
-<!-- <td align="center" width="96">
+
+</table>
+</div>
+
+🔧 Tools & Infrastructure 
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/>
+Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+VS Code</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+Vercel</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" width="40"/>
+Webpack</td>
+</tr>
+</table>
+
+</div>
+
+📊 Analytics
+<table>
+<td align="center" width="96">
 <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="40" alt="NumPy"/><br />NumPy
 </td>
 <td align="center" width="96">
@@ -93,33 +116,6 @@ Software Develement
 <td align="center" width="96">
 <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40" alt="Power BI"/><br />Power BI
 </td>
-</tr> -->
-</table>
-</div>
-
-🔧 Tools & Infrastructure
-<table>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/>
-
-
-Git</td>
-
-
-
-
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40"/>
-
-
-VS Code</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="40"/>
-
-
-Vercel</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" width="40"/>
-
-
-Webpack</td>
 </tr>
 </table>
 
