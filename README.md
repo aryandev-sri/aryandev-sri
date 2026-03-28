@@ -6,7 +6,7 @@
 I am a passionate **Software Engineer** dedicated to building scalable web applications and uncovering meaningful patterns through **Data Analytics**. I enjoy bridging the gap between robust back-end logic and intuitive, data-driven user experiences.
 
 * 🎓 **Recent Graduate** from Vellore Institute of Technology (VIT), Bhopal.
-* 💡 **Currently focused on**: Mastering the MERN stack and deep-diving into Predictive Analytics.
+* 💡 **Currently focused on**: Mastering the JAVA and had a knowledege of Predictive Analytics.
 * 🎯 **Goal**: To build impactful software that leverages data to solve real-world problems.
 
 ###
@@ -67,11 +67,11 @@ SQL</td>
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://www.Java.org/">
-<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b6179578-4c6d-4f1b-bd70-c802989b564f" />
-" width="40" alt="Java"/>
-</a><br />Java
+<a href="https://www.java.com/en/">
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+</a><br />JAVA
 </td>
+
 <td align="center" width="96">
 <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/>
