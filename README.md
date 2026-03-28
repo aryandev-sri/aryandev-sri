@@ -67,9 +67,10 @@ SQL</td>
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/>
-</a><br />Python
+<a href="https://www.Java.org/">
+<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b6179578-4c6d-4f1b-bd70-c802989b564f" />
+" width="40" alt="Java"/>
+</a><br />Java
 </td>
 <td align="center" width="96">
 <a href="https://www.mysql.com/">
