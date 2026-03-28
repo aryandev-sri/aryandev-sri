@@ -62,7 +62,7 @@ SQL</td>
 </tr>
 </table>
 
-📊 Data Analytics & Science
+Software Develement
 <div align="center">
 <table>
 <tr>
